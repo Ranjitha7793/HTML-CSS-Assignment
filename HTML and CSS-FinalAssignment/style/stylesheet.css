@@ -1,0 +1,113 @@
+.office h1{
+    text-align: center;
+}
+.sumbit{
+    text-align: center;
+}
+.page{
+    background-color:lightcyan;
+
+}
+.sales{
+    height: 100;
+    width: 100;
+    margin-left: 4rem;
+   
+   
+}
+.support{
+    margin-left: 4rem;   
+}
+
+a:hover{
+    color: black;
+}
+.personal details{
+    color: lightblue;
+}
+.Location{
+    margin-left: 4rem;
+    /* border: top left radius 3px; */
+  
+   
+    
+}
+ .location1{
+    float:left;
+    margin-left: 8rem; 
+   
+} 
+/* .location2{
+ 
+    margin-left: 8rem;
+   
+} */
+
+
+.website{
+    text-align: center;
+}
+.website h4{
+    line-height: 25px;
+    
+}
+.reference{
+    max-width: 100%;
+    margin-left: 4rem;
+}
+.About{
+    text-align: center;
+    font-size: 15px;
+    
+    line-height: 24px;
+    letter-spacing: -0.36px;
+}
+.About1{
+    text-align: center;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: -0.36px;
+}
+.About2{
+    text-align:center;
+}
+ul{
+    background-color:lightcyan;
+}
+li{
+    background-color:lightcyan ;
+    display: inline-block;
+    color:black;
+    line-height: 25px;
+    padding: 0 10px;
+    margin-left: 4rem;
+
+}
+li:hover
+{
+    background-color:red;
+}
+.image{
+    text-align: right;
+}
+.About5{
+    text-align: right;
+}
+.About4{
+    text-align: right;
+}
+.About3{
+    text-align: right;
+}
+.About2{
+    text-align: center;
+}
+.location2{
+    float: right;
+    position: relative;
+}
+
+.location1{
+    border: white;
+    padding: 50px;
+    max-width: 50%;
